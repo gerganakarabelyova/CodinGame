@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Welcome to my CodinGame repository!
 
 [**CodinGame**](https://www.codingame.com/training)  is an online coding platform offering ressources for developpers to upgrade their skills in a fun and engaging game-like way.
 
